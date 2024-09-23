@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_819862_doc_app_0_document_approval_sea">1bbe5106fbb412105414af13588093d9</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="Document Approval Search Profile">93be510635b41210b5a86ee812b2b5da</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 19:28:03</sys_created_on>
+        <sys_id>1fbe510693b41210a6a6c85f3ed2ddd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_819862_doc_app_0_document_approval_sea.Document Approval Search Profile</sys_name>
+        <sys_package display_value="Doc Approval" source="x_819862_doc_app_0">36be110684b4121050400bbb24ab4bb7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Doc Approval">36be110684b4121050400bbb24ab4bb7</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_1fbe510693b41210a6a6c85f3ed2ddd8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 19:28:03</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

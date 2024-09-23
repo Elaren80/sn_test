@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
+    <sys_highlighted_value_condition action="INSERT_OR_UPDATE">
+        <color>warning</color>
+        <conditions table="x_819862_doc_app_0_document_approver">state=returned^EQ<item display_value="Returned" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="returned"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <form_label_description/>
+        <hide_form_label>false</hide_form_label>
+        <highlighted_value display_value="state">93be510668b41210d135d4d7491524aa</highlighted_value>
+        <icon/>
+        <order>0</order>
+        <show_icon>true</show_icon>
+        <status>high</status>
+        <sys_class_name>sys_highlighted_value_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 19:27:47</sys_created_on>
+        <sys_id>d7be51062eb412106bfe5f76b7b32ba8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Doc Approval" source="x_819862_doc_app_0">36be110684b4121050400bbb24ab4bb7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Doc Approval">36be110684b4121050400bbb24ab4bb7</sys_scope>
+        <sys_update_name>sys_highlighted_value_condition_d7be51062eb412106bfe5f76b7b32ba8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 19:27:47</sys_updated_on>
+        <value_override/>
+        <variant>primary</variant>
+    </sys_highlighted_value_condition>
+</record_update>

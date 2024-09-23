@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Approvals this year Item Stream">1bbe5106e9b41210f412b6d2b7892a3f</item_stream>
+        <segment display_value="Item Stream Segment">57be5106bab4121082cc7d449d04fe3f</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 19:27:56</sys_created_on>
+        <sys_id>d3be510600b41210ffad150f7b59383e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Doc Approval" source="x_819862_doc_app_0">36be110684b4121050400bbb24ab4bb7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Doc Approval">36be110684b4121050400bbb24ab4bb7</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_d3be510600b41210ffad150f7b59383e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 19:27:56</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

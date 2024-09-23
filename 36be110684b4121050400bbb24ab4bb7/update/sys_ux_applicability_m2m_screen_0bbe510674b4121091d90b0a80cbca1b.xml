@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public - Document Approval">c3be5106f4b412100eb0a8dacec81f20</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">03be5106a2b4121038a193b4b9a8d61d</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 19:27:54</sys_created_on>
+        <sys_id>0bbe510674b4121091d90b0a80cbca1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Doc Approval" source="x_819862_doc_app_0">36be110684b4121050400bbb24ab4bb7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Doc Approval">36be110684b4121050400bbb24ab4bb7</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_0bbe510674b4121091d90b0a80cbca1b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 19:27:54</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

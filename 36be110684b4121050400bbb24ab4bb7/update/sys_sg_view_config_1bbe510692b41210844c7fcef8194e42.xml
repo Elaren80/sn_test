@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <description/>
+        <name>Document Approvals View Config</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 19:28:05</sys_created_on>
+        <sys_id>1bbe510692b41210844c7fcef8194e42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approvals View Config</sys_name>
+        <sys_package display_value="Doc Approval" source="x_819862_doc_app_0">36be110684b4121050400bbb24ab4bb7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Doc Approval">36be110684b4121050400bbb24ab4bb7</sys_scope>
+        <sys_update_name>sys_sg_view_config_1bbe510692b41210844c7fcef8194e42</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 19:28:05</sys_updated_on>
+        <table>x_819862_doc_app_0_document_approver</table>
+        <template display_value="Document Approval View Template">93be5106d9b412102e1cfdcdd76a5739</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=1bbe510692b41210844c7fcef8194e42"/>
+</record_update>

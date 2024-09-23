@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 19:27:44</sys_created_on>
+        <sys_id>97be510611b4121082bbd4d68b59614a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Doc Approval" source="x_819862_doc_app_0">36be110684b4121050400bbb24ab4bb7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Doc Approval">36be110684b4121050400bbb24ab4bb7</sys_scope>
+        <sys_security_acl display_value="x_819862_doc_app_0_document_approver">9fbe510685b4121030704a20a5644e50</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_97be510611b4121082bbd4d68b59614a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 19:27:44</sys_updated_on>
+        <sys_user_role display_value="x_819862_doc_app_0.admin" name="x_819862_doc_app_0.admin">9bbe51060bb41210e4c09fe6cb3cdadc</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
